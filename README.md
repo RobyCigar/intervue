@@ -16,4 +16,7 @@ Note: make sure to turn off the browser CORS to run this project locally
 - Clean UI
 
 ## Preview
-Updated soon
+![login](https://raw.githubusercontent.com/RobyCigar/intervue/main/preview/login.png)
+![main](https://raw.githubusercontent.com/RobyCigar/intervue/main/preview/main.png)
+![form](https://raw.githubusercontent.com/RobyCigar/intervue/main/preview/form.png)
+![video](https://raw.githubusercontent.com/RobyCigar/intervue/main/preview/preview.mkv)
