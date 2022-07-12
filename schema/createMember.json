@@ -1,0 +1,34 @@
+{
+    "data": {
+        "type": "offices",
+        "attributes": {
+            "office_type": "member",
+            "office_registration_id": "0b1dd075-ca5e-441f-8a54-5544cd1d1268", 
+            "office_referral_id": "753acdfc-6bb6-4225-890c-43f576b75d06",
+            "name": "Grealish",
+            "birthdate": "2022-05-11",
+            
+            "bank_account_number": "292929",
+            "bank_account_name": "Ani",
+            "bank_name": "BRI",
+            "bank_branch_name": "Sleman",
+            "address": "Sleman",
+            "npwp_number": "827382",
+            "npwp_name": "Dist",
+            "address_details": [
+                {
+                    "province_id": "8",
+                    "city_id": "129"
+                }
+            ]
+        },
+        "relationships": {
+            "office-category": {
+                "data": {
+                    "type": "office-categories",
+                    "id": "4f34bb7a-d6e6-4d9e-bc59-f21bfab424fe"
+                }
+            }
+        }
+    }
+}
