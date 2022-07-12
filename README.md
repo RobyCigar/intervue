@@ -9,5 +9,11 @@ Note: make sure to turn off the browser CORS to run this project locally
 4. Configure .env file, please refer to .env.example
 5. Run `pnpm run dev`
 
+## Feature
+- Login
+- Create and Read data via rest API
+- Error handling
+- Clean UI
+
 ## Showcase
 Updated soon
