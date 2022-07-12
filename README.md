@@ -15,5 +15,5 @@ Note: make sure to turn off the browser CORS to run this project locally
 - Error handling
 - Clean UI
 
-## Showcase
+## Preview
 Updated soon
