@@ -15,6 +15,13 @@ Note: make sure to turn off the browser CORS to run this project locally
 - Error handling
 - Clean UI
 
+## Tools
+- Vue 3
+- VueX
+- Tailwind
+- DaisyUI
+- ViteJS
+
 ## Preview
 ![login](https://raw.githubusercontent.com/RobyCigar/intervue/main/preview/login.png)
 ![main](https://raw.githubusercontent.com/RobyCigar/intervue/main/preview/main.png)
